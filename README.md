@@ -5,11 +5,21 @@
 ```
 単語> ran
   run（入力: ran） [動詞]
-  意味  : 走る、運営する、作動する
-  例文  : She runs every morning before work.
-  例文訳: 彼女は毎朝仕事の前に走る。
-  ✓ Notionに保存しました https://www.notion.so/...
+  意味  : 走る、作動する、経営する
+  例文  : I run in the park every morning.
+  例文訳: 私は毎朝公園を走ります。
+  ✓ Notionに保存しました https://app.notion.com/p/run-...
+
+単語> socccer
+  ？ 「socccer」はつづりミスかもしれません。もしかして「soccer」ですか？ [Y/n] y
+  soccer（入力: socccer） [名詞]
+  意味  : サッカー
+  ...
 ```
+
+保存された Notion の単語帳：
+
+![Notionの単語帳データベース](docs/notion-table.png)
 
 ## 工夫した点
 
